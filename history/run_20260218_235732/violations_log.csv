@@ -1,0 +1,42 @@
+frame,track_id,violation_type,vehicle_type,signal_state,timestamp
+48,1,Rash Driving,car,GREEN,2026-02-18T23:57:32
+48,2,Rash Driving,car,GREEN,2026-02-18T23:57:32
+48,3,Rash Driving,car,GREEN,2026-02-18T23:57:32
+48,4,Rash Driving,bus,GREEN,2026-02-18T23:57:32
+72,1,Rash Driving,car,RED,2026-02-18T23:57:32
+72,2,Rash Driving,car,RED,2026-02-18T23:57:32
+72,4,Red Light Jump,bus,RED,2026-02-18T23:57:32
+72,4,Rash Driving,bus,RED,2026-02-18T23:57:32
+96,1,Rash Driving,car,GREEN,2026-02-18T23:57:32
+96,2,Rash Driving,car,GREEN,2026-02-18T23:57:32
+96,3,Rash Driving,car,GREEN,2026-02-18T23:57:32
+120,2,Rash Driving,car,RED,2026-02-18T23:57:33
+120,4,Red Light Jump,car,RED,2026-02-18T23:57:33
+120,4,Rash Driving,car,RED,2026-02-18T23:57:33
+120,6,Rash Driving,car,RED,2026-02-18T23:57:33
+144,4,Rash Driving,car,RED,2026-02-18T23:57:33
+144,6,Rash Driving,car,RED,2026-02-18T23:57:33
+168,1,Rash Driving,car,GREEN,2026-02-18T23:57:33
+168,2,Rash Driving,car,GREEN,2026-02-18T23:57:33
+168,4,Rash Driving,car,GREEN,2026-02-18T23:57:33
+168,5,Rash Driving,car,GREEN,2026-02-18T23:57:33
+168,7,Rash Driving,bus,GREEN,2026-02-18T23:57:33
+192,2,Rash Driving,car,RED,2026-02-18T23:57:33
+192,3,Rash Driving,car,RED,2026-02-18T23:57:33
+192,7,Red Light Jump,bus,RED,2026-02-18T23:57:33
+192,7,Rash Driving,bus,RED,2026-02-18T23:57:33
+216,1,Rash Driving,car,GREEN,2026-02-18T23:57:33
+216,2,Rash Driving,car,GREEN,2026-02-18T23:57:33
+216,3,Rash Driving,car,GREEN,2026-02-18T23:57:33
+216,4,Rash Driving,car,GREEN,2026-02-18T23:57:33
+240,1,Rash Driving,car,RED,2026-02-18T23:57:33
+240,2,Rash Driving,car,RED,2026-02-18T23:57:33
+240,4,Rash Driving,car,RED,2026-02-18T23:57:33
+240,7,Rash Driving,car,RED,2026-02-18T23:57:33
+240,8,Rash Driving,car,RED,2026-02-18T23:57:33
+264,1,Rash Driving,car,RED,2026-02-18T23:57:34
+264,3,Rash Driving,car,RED,2026-02-18T23:57:34
+264,6,Rash Driving,car,RED,2026-02-18T23:57:34
+264,7,Red Light Jump,car,RED,2026-02-18T23:57:34
+264,7,Rash Driving,car,RED,2026-02-18T23:57:34
+288,2,Rash Driving,car,GREEN,2026-02-18T23:57:34

@@ -1,0 +1,20 @@
+%PDF-1.4
+1 0 obj << /Type /Catalog /Pages 2 0 R >> endobj
+2 0 obj << /Type /Pages /Kids [3 0 R] /Count 1 >> endobj
+3 0 obj << /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 4 0 R >> >> /Contents 5 0 R >> endobj
+4 0 obj << /Type /Font /Subtype /Type1 /BaseFont /Helvetica >> endobj
+5 0 obj << /Length 1461 >> stream
+BT /F1 12 Tf 50 760 Td (Traffic Summary Report) Tj 50 746 Td (Generated: 2026-02-14T00:25:09) Tj 50 732 Td (metrics:) Tj 50 718 Td (  - total_vehicles_detected: 2759) Tj 50 704 Td (  - cars: 2700) Tj 50 690 Td (  - bikes: 1) Tj 50 676 Td (  - buses: 0) Tj 50 662 Td (  - trucks: 58) Tj 50 648 Td (  - average_queue_length: 5.096969696969697) Tj 50 634 Td (  - peak_queue_length: 9) Tj 50 620 Td (  - total_violations: 1163) Tj 50 606 Td (  - violation_breakdown: {'Red Light Jump': 29, 'Rash Driving': 1134}) Tj 50 592 Td (  - queue_count: 9) Tj 50 578 Td (  - queue_density_avg: 2.731143741946212e-05) Tj 50 564 Td (  - red_light_violations: 29) Tj 50 550 Td (  - rash_driving: 1134) Tj 50 536 Td (  - total_vehicles: 2759) Tj 50 522 Td (executive_summary:) Tj 50 508 Td (  - traffic_growth: 0.0) Tj 50 494 Td (  - violation_rate_change: 0.0) Tj 50 480 Td (  - avg_speed: 0.0) Tj 50 466 Td (  - violation_percent: 42.15295396882929) Tj 50 452 Td (detailed_statistics:) Tj 50 438 Td (  - total_vehicles: 2759) Tj 50 424 Td (  - queue_count: 9) Tj 50 410 Td (  - red_light_violations: 29) Tj 50 396 Td (  - rash_driving: 1134) Tj 50 382 Td (weekly:) Tj 50 368 Td (  - daily_traffic: {'Mon': 0, 'Tue': 0, 'Wed': 0, 'Thu': 0, 'Fri': 0, 'Sat': 2759, 'Sun': 0}) Tj 50 354 Td (  - daily_violations: {'Mon': 0, 'Tue': 0, 'Wed': 0, 'Thu': 0, 'Fri': 0, 'Sat': 1146, 'Sun': 0}) Tj 50 340 Td (raw_rows: 2759) Tj 50 326 Td (violations:) Tj 50 312 Td (  - items: 1163) Tj ET
+endstream endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000241 00000 n 
+0000000311 00000 n 
+trailer << /Size 6 /Root 1 0 R >>
+startxref
+1824
+%EOF

@@ -1,0 +1,19 @@
+frame_id,track_id,vehicle_type,bbox,center_x,center_y,timestamp,frame,camera_id,location,cars,bikes,buses,trucks,autos,total_vehicles,queue_count,queue_density,signal_state,red_light_violations,rash_driving,no_helmet_violations,mobile_usage_violations,triple_riding_violations,heavy_load_violations,total_violations,violation_type
+24,-1,none,,-1.0,-1.0,2026-02-18T17:35:47,24,CAM-01,Primary Junction,0,0,0,0,0,0,0,0.0,RED,0,2,0,0,0,0,2,
+48,-1,none,,-1.0,-1.0,2026-02-18T17:35:47,48,CAM-01,Primary Junction,0,0,0,0,0,0,0,0.0,GREEN,0,2,0,0,0,0,2,
+72,-1,none,,-1.0,-1.0,2026-02-18T17:35:47,72,CAM-01,Primary Junction,0,0,0,0,0,0,0,0.0,RED,0,2,0,0,0,0,2,
+96,-1,none,,-1.0,-1.0,2026-02-18T17:35:47,96,CAM-01,Primary Junction,0,0,0,0,0,0,0,0.0,GREEN,0,2,0,0,0,0,2,
+120,-1,none,,-1.0,-1.0,2026-02-18T17:35:47,120,CAM-01,Primary Junction,0,0,0,0,0,0,0,0.0,RED,0,2,0,0,0,0,2,
+144,-1,none,,-1.0,-1.0,2026-02-18T17:35:47,144,CAM-01,Primary Junction,0,0,0,0,0,0,0,0.0,RED,0,2,0,0,0,0,2,
+168,-1,none,,-1.0,-1.0,2026-02-18T17:35:47,168,CAM-01,Primary Junction,0,0,0,0,0,0,0,0.0,GREEN,0,2,0,0,0,0,2,
+192,-1,none,,-1.0,-1.0,2026-02-18T17:35:47,192,CAM-01,Primary Junction,0,0,0,0,0,0,0,0.0,RED,0,2,0,0,0,0,2,
+216,-1,none,,-1.0,-1.0,2026-02-18T17:35:47,216,CAM-01,Primary Junction,0,0,0,0,0,0,0,0.0,GREEN,0,2,0,0,0,0,2,
+240,1,car,"155,41,26,24",168.0,53.0,2026-02-18T17:35:48,240,CAM-01,Primary Junction,2,0,0,0,0,2,0,0.0,RED,0,2,0,0,0,0,2,
+240,2,car,"135,31,22,19",146.0,40.5,2026-02-18T17:35:48,240,CAM-01,Primary Junction,2,0,0,0,0,2,0,0.0,RED,0,2,0,0,0,0,2,
+264,1,car,"151,48,30,31",166.0,63.5,2026-02-18T17:35:48,264,CAM-01,Primary Junction,1,0,0,0,0,1,0,0.0,RED,0,2,0,0,0,0,2,
+288,1,car,"144,63,32,36",160.0,81.0,2026-02-18T17:35:48,288,CAM-01,Primary Junction,3,0,0,0,0,3,0,0.0,GREEN,0,2,0,0,0,0,2,
+288,2,car,"123,45,27,24",136.5,57.0,2026-02-18T17:35:48,288,CAM-01,Primary Junction,3,0,0,0,0,3,0,0.0,GREEN,0,2,0,0,0,0,2,Rash Driving
+288,3,car,"192,55,24,21",204.0,65.5,2026-02-18T17:35:48,288,CAM-01,Primary Junction,3,0,0,0,0,3,0,0.0,GREEN,0,2,0,0,0,0,2,
+312,1,car,"128,91,40,54",148.0,118.0,2026-02-18T17:35:48,312,CAM-01,Primary Junction,3,0,0,0,0,3,0,0.0,RED,0,2,0,0,0,0,2,Rash Driving
+312,2,car,"115,57,30,33",130.0,73.5,2026-02-18T17:35:48,312,CAM-01,Primary Junction,3,0,0,0,0,3,0,0.0,RED,0,2,0,0,0,0,2,
+312,3,car,"193,63,27,27",206.5,76.5,2026-02-18T17:35:48,312,CAM-01,Primary Junction,3,0,0,0,0,3,0,0.0,RED,0,2,0,0,0,0,2,

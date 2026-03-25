@@ -1,0 +1,62 @@
+frame,track_id,violation_type,vehicle_type,signal_state,timestamp
+48,2,Rash Driving,bus,RED,2026-02-18T23:17:22
+48,3,Rash Driving,car,RED,2026-02-18T23:17:22
+48,4,Red Light Jump,car,RED,2026-02-18T23:17:22
+48,4,Rash Driving,car,RED,2026-02-18T23:17:22
+72,1,Rash Driving,car,RED,2026-02-18T23:17:23
+72,3,Rash Driving,car,RED,2026-02-18T23:17:23
+72,4,Rash Driving,car,RED,2026-02-18T23:17:23
+72,5,Rash Driving,car,RED,2026-02-18T23:17:23
+96,1,Rash Driving,car,RED,2026-02-18T23:17:25
+96,2,Rash Driving,car,RED,2026-02-18T23:17:25
+96,4,Rash Driving,car,RED,2026-02-18T23:17:25
+96,5,Rash Driving,car,RED,2026-02-18T23:17:25
+120,2,Rash Driving,car,RED,2026-02-18T23:17:26
+120,4,Rash Driving,car,RED,2026-02-18T23:17:26
+120,5,Rash Driving,car,RED,2026-02-18T23:17:26
+120,6,Rash Driving,car,RED,2026-02-18T23:17:26
+120,7,Rash Driving,bus,RED,2026-02-18T23:17:26
+144,1,Rash Driving,car,RED,2026-02-18T23:17:27
+144,5,Rash Driving,truck,RED,2026-02-18T23:17:27
+144,7,Rash Driving,truck,RED,2026-02-18T23:17:27
+144,8,Red Light Jump,car,RED,2026-02-18T23:17:27
+144,8,Rash Driving,car,RED,2026-02-18T23:17:27
+168,1,Rash Driving,car,RED,2026-02-18T23:17:29
+168,4,Rash Driving,car,RED,2026-02-18T23:17:29
+168,5,Rash Driving,truck,RED,2026-02-18T23:17:29
+168,6,Rash Driving,car,RED,2026-02-18T23:17:29
+168,9,Rash Driving,car,RED,2026-02-18T23:17:29
+168,10,Red Light Jump,car,RED,2026-02-18T23:17:29
+168,10,Rash Driving,car,RED,2026-02-18T23:17:29
+192,2,Rash Driving,car,RED,2026-02-18T23:17:30
+192,3,Rash Driving,car,RED,2026-02-18T23:17:30
+192,5,Rash Driving,bus,RED,2026-02-18T23:17:30
+192,8,Rash Driving,car,RED,2026-02-18T23:17:30
+192,9,Rash Driving,car,RED,2026-02-18T23:17:30
+192,10,Red Light Jump,car,RED,2026-02-18T23:17:30
+192,10,Rash Driving,car,RED,2026-02-18T23:17:30
+240,8,Rash Driving,car,RED,2026-02-18T23:17:33
+264,1,Red Light Jump,car,RED,2026-02-18T23:17:35
+264,1,Rash Driving,car,RED,2026-02-18T23:17:35
+264,2,Rash Driving,car,RED,2026-02-18T23:17:35
+264,7,Rash Driving,car,RED,2026-02-18T23:17:35
+288,1,Red Light Jump,car,RED,2026-02-18T23:17:36
+288,1,Rash Driving,car,RED,2026-02-18T23:17:36
+288,2,Rash Driving,car,RED,2026-02-18T23:17:36
+288,7,Rash Driving,car,RED,2026-02-18T23:17:36
+288,10,Red Light Jump,car,RED,2026-02-18T23:17:36
+288,10,Rash Driving,car,RED,2026-02-18T23:17:36
+312,1,Rash Driving,car,RED,2026-02-18T23:17:38
+312,2,Red Light Jump,car,RED,2026-02-18T23:17:38
+312,2,Rash Driving,car,RED,2026-02-18T23:17:38
+312,4,Rash Driving,car,RED,2026-02-18T23:17:38
+312,10,Rash Driving,car,RED,2026-02-18T23:17:38
+336,2,Red Light Jump,car,RED,2026-02-18T23:17:39
+336,2,Rash Driving,car,RED,2026-02-18T23:17:39
+336,6,Rash Driving,bus,RED,2026-02-18T23:17:39
+336,7,Rash Driving,bus,RED,2026-02-18T23:17:39
+360,1,Rash Driving,car,RED,2026-02-18T23:17:41
+360,4,Rash Driving,car,RED,2026-02-18T23:17:41
+384,2,Rash Driving,car,RED,2026-02-18T23:17:42
+384,3,Rash Driving,car,RED,2026-02-18T23:17:42
+384,10,Rash Driving,car,RED,2026-02-18T23:17:42
